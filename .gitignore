@@ -176,4 +176,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# add target folder
+target/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij,java

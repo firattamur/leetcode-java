@@ -1,5 +1,9 @@
 package org.leetcodejava.problem_0002;
 
+
+/**
+ * Definition for singly-linked list.
+ */
 public class ListNode {
 
     int val;

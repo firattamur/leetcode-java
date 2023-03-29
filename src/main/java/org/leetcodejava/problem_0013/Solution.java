@@ -50,16 +50,17 @@ import java.util.Map;
 
 public class Solution {
 
+    /**
+     * Solution: Storing all the possible combinations in a map and then iterating through the string and checking if the next two characters are present in the map.
+     * If yes, then add the value of the combination to the result and increment the index by 2.
+     * If not, then add the value of the single character to the result and increment the index by 1.
+     * <p>
+     * Time complexity : O(n)
+     * Space complexity: O(1)
+     * @param s is the roman number
+     * @return the integer value of the roman number
+     */
     public int romanToInt(String s) {
-        /*
-
-            Solution: Storing all the possible combinations in a map and then iterating through the string and checking if the next two characters are present in the map.
-            If yes, then add the value of the combination to the result and increment the index by 2.
-            If not, then add the value of the single character to the result and increment the index by 1.
-                Time complexity : O(n)
-                Space complexity: O(1)
-
-        */
 
         int result = 0;
 

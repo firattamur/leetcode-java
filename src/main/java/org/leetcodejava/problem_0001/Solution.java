@@ -42,14 +42,19 @@ import java.util.HashMap;
 
 class Solution {
 
+    /**
+     * Solution: Store Indexes in a Hash Table
+     * Iterate through the array and store the values in a map.
+     * Then iterate through the array again and check if the complement exists in the map.
+     * <p>
+     * Time complexity : O(n)
+     * Space complexity: O(n)
+     *
+     * @param nums is the array of integers
+     * @param target is the sum of the two numbers
+     * @return the indices of the two numbers
+     */
     public int[] twoSum(int[] nums, int target) {
-        /*
-
-         Solution: Two-pass Hash Table
-             Time complexity : O(n)
-             Space complexity: O(n)
-
-        */
 
         Map<Integer, Integer> map = new HashMap<>();
 

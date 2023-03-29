@@ -34,17 +34,19 @@ Problem: Two Sum:
 
 public class Solution {
 
+    /**
+     * Solution:
+     * Iterate through both lists and add the values together.
+     * If the sum is greater than 10, carry the 1 to the next digit.
+     * <p>
+     * Time complexity : O(n)
+     * Space complexity: O(n)
+     *
+     * @param l1 is the first list
+     * @param l2 is the second list
+     * @return the sum of the two lists
+     */
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        /*
-
-            Solution:
-            Iterate through both lists and add the values together.
-            If the sum is greater than 10, carry the 1 to the next digit.
-
-                Time complexity : O(n)
-                Space complexity: O(n)
-
-         */
 
         ListNode output  = new ListNode();
         ListNode current = output;

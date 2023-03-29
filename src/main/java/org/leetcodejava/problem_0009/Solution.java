@@ -31,12 +31,15 @@ package org.leetcodejava.problem_0009;
 
 public class Solution {
 
+    /**
+     * Solution: Build reverse by dividing by 10 and multiplying by 10
+     * <p>
+     * Time complexity : O(log10(n))
+     * Space complexity: O(1)
+     * @param x is the integer
+     * @return true if x is a palindrome, and false otherwise
+     */
     public boolean isPalindrome(int x) {
-        /*
-            Solution: Build reverse by dividing by 10 and multiplying by 10
-                Time complexity : O(log10(n))
-                Space complexity: O(1)
-        */
 
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;

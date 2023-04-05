@@ -20,8 +20,8 @@ This repository contains my personal solutions for LeetCode problems. All soluti
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ✅ Completed |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Completed |
 | 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🚧 In Progress |
-| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🚧 In Progress |
-| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🚧 In Progress |
+| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Completed |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | ✅ Completed |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ Completed |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ❌ Not Started |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)              | ✅ Completed |

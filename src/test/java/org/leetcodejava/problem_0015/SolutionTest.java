@@ -1,7 +1,6 @@
 package org.leetcodejava.problem_0015;
 
 import org.junit.Test;
-import org.leetcodejava.problem_0015.Solution;
 
 import java.util.List;
 import java.util.Objects;

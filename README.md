@@ -24,7 +24,7 @@ This repository contains my personal solutions for LeetCode problems. All soluti
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🚧 In Progress |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ Completed |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ❌ Not Started |
-| 15  | [3Sum](https://leetcode.com/problems/3sum/)              | ❌ Not Started |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/)              | ✅ Completed |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ❌ Not Started |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ❌ Not Started |
 | 18  | [4Sum](https://leetcode.com/problems/4sum/)              | ❌ Not Started |

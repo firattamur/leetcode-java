@@ -26,10 +26,11 @@ This repository contains my personal solutions for LeetCode problems. All soluti
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)              | ✅ Completed |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ✅ Completed |
-| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ❌ Not Started |
+| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ Completed |
 | 18  | [4Sum](https://leetcode.com/problems/4sum/)              | ✅ Completed |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ❌ Not Started |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ❌ Not Started |
+
 
 ## 🎯 How to Use
 
